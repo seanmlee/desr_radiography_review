@@ -54,6 +54,13 @@ specificity %>%
   
   geom_boxplot(outlier.shape = NA) +
   
+  geom_signif(
+    comparisons = list(c("DESR", "Conventional")),
+    map_signif_level = TRUE,
+    annotations = c("n.s."),
+    color = "black"
+  ) +
+  
   geom_point(
     aes(color = Study),
     position = position_dodge(width = 0.3),
