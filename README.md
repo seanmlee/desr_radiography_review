@@ -13,11 +13,11 @@ This repository contains reproducible code for our research manuscript titled "D
 <br>  
 <br> 
 
-![specificity](https://github.com/seanmlee/desr_radiography_review/assets/82421211/1721dc36-5fdd-4dfe-9b03-8fa710f81d2d)
+![specificity](https://github.com/seanmlee/desr_radiography_review/assets/82421211/e1c8c379-8944-4630-a649-049ae98ff154)
 <br>  
 <br> 
 
-![auc](https://github.com/seanmlee/desr_radiography_review/assets/82421211/5a6044d3-106b-4a71-82d9-61abe8bfb203)
+![auc](https://github.com/seanmlee/desr_radiography_review/assets/82421211/263d2982-b417-44f2-a0f1-6811c017cc55)
 <br>  
 <br>  
 
