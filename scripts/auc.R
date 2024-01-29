@@ -98,7 +98,7 @@ auc %>%
       "Szucs-Farkas et al. (2008)" = "Szucs-Farkas et al. (2008)",
       "Ruhl et al. (2008)" = "Rühl et al. (2008)",
       "Li et al. (2008)" = "Li et al. (2008)",
-      "S. Oda et al. (2010)" = "S. Oda et al. (2010)",
+      "S. Oda et al. (2010)" = "Oda et al. (2010)",
       "Kashani et al. (2010)" = "Kashani et al. (2010)",
       "Bae et al. (2022)" = "Bae et al. (2022)",
       "Wu et al. (2021)" = "Wu et al. (2021)",
