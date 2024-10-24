@@ -1,10 +1,11 @@
 ## Dual-Energy Subtraction Radiography (DESR): A systematic review and meta-analysis of pulmonary lesion detection
 
-<strong>Michael Frenkel et al. <em>Manuscript submitted for review</em></strong>
+This repository contains reproducible code for our research manuscript titled `Dual-Energy Subtraction Radiography (DESR): A systematic review and meta-analysis of pulmonary lesion detection`, which is published in the journal `Clinical Radiology`.
 
-This repository contains reproducible code for our research manuscript titled "Dual-Energy Subtraction Radiography (DESR): A systematic review and meta-analysis of pulmonary lesion detection." We will provide the full citation upon publication.
+<strong>Full citation:</strong> Frenkel, M., Iyer, S., Antar, R., Akram, A., Lee, S. M., Lichtenberger, J., & Shin, B. (2024). Dual-Energy Subtraction Radiography (DESR): A systematic review and meta-analysis of pulmonary nodule detection. Clinical Radiology.
 
-<strong>We will publish final updates to code and `.README` instructions upon publication</strong>
+<strong>DOI:</strong> https://doi.org/10.1016/j.crad.2024.09.015
+
 <br>  
 <br>  
 
